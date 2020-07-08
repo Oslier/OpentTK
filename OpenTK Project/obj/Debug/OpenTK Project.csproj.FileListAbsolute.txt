@@ -1,0 +1,23 @@
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\OpenTK Project.exe.config
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\OpenTK Project.exe
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\OpenTK Project.pdb
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\OpenTK.dll
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\OpenTK.pdb
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\OpenTK.xml
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\obj\Debug\OpenTK Project.csproj.CoreCompileInputs.cache
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\obj\Debug\OpenTK Project.csproj.CopyComplete
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\obj\Debug\OpenTK Project.exe
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\obj\Debug\OpenTK Project.pdb
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\Shaders\shader.frag
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\Shaders\shader.vert
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\SixLabors.ImageSharp.dll
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\System.Buffers.dll
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\System.Memory.dll
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\SixLabors.ImageSharp.xml
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\System.Buffers.xml
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\System.Memory.xml
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\VS projects\OpenTK Project\OpenTK Project\obj\Debug\OpenTK Project.csprojAssemblyReference.cache
